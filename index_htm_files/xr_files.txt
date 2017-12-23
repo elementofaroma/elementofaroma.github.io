@@ -15,8 +15,8 @@ contact.htm
 contact.htm
 index_htm_files/1.png
 index_htm_files/1@2x.png
-index_htm_files/175.png
-index_htm_files/175@2x.png
+index_htm_files/345.png
+index_htm_files/345@2x.png
 index_htm_files/4.jpg
 index_htm_files/5.png
 index_htm_files/5@2x.png
@@ -263,6 +263,8 @@ index_htm_files/340.jpg
 index_htm_files/341.jpg
 index_htm_files/342.jpg
 index_htm_files/343.jpg
+index_htm_files/358.jpg
+index_htm_files/358@2x.jpg
 index_htm_files/158.jpg
 index_htm_files/158@2x.jpg
 index_htm_files/141.jpg
