@@ -17,7 +17,6 @@ index_htm_files/1.png
 index_htm_files/1@2x.png
 index_htm_files/345.png
 index_htm_files/345@2x.png
-index_htm_files/4.jpg
 index_htm_files/5.png
 index_htm_files/5@2x.png
 index_htm_files/6.png
@@ -36,10 +35,6 @@ index_htm_files/12.png
 index_htm_files/12@2x.png
 index_htm_files/13.png
 index_htm_files/13@2x.png
-index_htm_files/18.png
-index_htm_files/18@2x.png
-index_htm_files/19.png
-index_htm_files/19@2x.png
 index_htm_files/20.jpg
 index_htm_files/20@2x.jpg
 index_htm_files/21.png
@@ -62,8 +57,6 @@ index_htm_files/29.png
 index_htm_files/29@2x.png
 index_htm_files/30.png
 index_htm_files/30@2x.png
-index_htm_files/31.png
-index_htm_files/31@2x.png
 index_htm_files/32.jpg
 index_htm_files/3.png
 index_htm_files/3@2x.png
@@ -83,14 +76,8 @@ index_htm_files/16.png
 index_htm_files/16@2x.png
 index_htm_files/17.png
 index_htm_files/17@2x.png
-index_htm_files/39.png
-index_htm_files/39@2x.png
-index_htm_files/40.png
-index_htm_files/40@2x.png
 index_htm_files/41.png
 index_htm_files/41@2x.png
-index_htm_files/42.png
-index_htm_files/42@2x.png
 index_htm_files/49.jpg
 index_htm_files/49@2x.jpg
 index_htm_files/45.jpg
@@ -237,6 +224,8 @@ index_htm_files/172@2x.jpg
 index_htm_files/169.jpg
 index_htm_files/169@2x.jpg
 index_htm_files/170.jpg
+index_htm_files/364.png
+index_htm_files/364@2x.png
 index_htm_files/simpleGallery_config.js
 index_htm_files/simpleGallery_3cols.js
 index_htm_files/simpleGallery.css
