@@ -50,7 +50,7 @@
 .xr_mvp_10 {display: block;}
 .xr_mvp_9 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 5507px}
+#xr_xr {width: 480px; height: 5363px}
 }
 @media screen and (min-width: 720px) {
 .xr_mvp_10 {display: none;}
@@ -62,7 +62,7 @@
 .xr_mvp_12 {display: block;}
 .xr_mvp_11 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 1520px}
+#xr_xr {width: 480px; height: 2139px}
 }
 @media screen and (min-width: 720px) {
 .xr_mvp_12 {display: none;}
